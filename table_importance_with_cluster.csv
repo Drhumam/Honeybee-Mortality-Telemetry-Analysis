@@ -1,0 +1,8 @@
+"Variable","RandomForest","XGBoost","SVM"
+"cluster_multivariate",13.45,22.27,30.56
+"weight",27.69,41.12,29.73
+"weight_d",4.18,1.61,0.48
+"temp.in",15.5,12.16,6.74
+"temp.out",11.16,4.22,8.34
+"h",12.98,7.05,3.75
+"p",15.05,11.56,20.41
